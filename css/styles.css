@@ -1,0 +1,31 @@
+h1 {
+  color: #00008b;
+  text-align: center;
+}
+
+h2 {
+  color: #0000ff;
+  text-align: center;
+}
+
+h4 {
+  color: #4169e1;
+}
+
+p {
+  color: #000080;
+}
+
+ul {
+  color: #000080;
+}
+
+ol {
+  color: #000080;
+}
+
+body {
+  background-color: #fff8dc;
+  line-height: 24px;
+  font-family: tahoma;
+}

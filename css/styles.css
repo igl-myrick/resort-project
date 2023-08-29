@@ -1,0 +1,23 @@
+h1 {
+  color:#ff8d21;
+  text-align: center;
+}
+
+h2 {
+  color: #c56b16;
+  text-align: center;
+}
+
+h4 {
+  color: #864910;
+}
+
+p {
+  color: #864910;
+}
+
+body {
+  color: #864910;
+  background-color: #40e0d0;
+  line-height: 40px;
+}
